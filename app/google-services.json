@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732032499326",
+    "firebase_url": "https://snappyapp-d5f7f.firebaseio.com",
+    "project_id": "snappyapp-d5f7f",
+    "storage_bucket": "snappyapp-d5f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732032499326:android:03c9b2af0da4dfa46fe22f",
+        "android_client_info": {
+          "package_name": "com.myapps.claremacharia44.snappyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732032499326-s2urncve8738l81f32hjvp5k2hp90o4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5G0UzGJwAcxpdEsBkyqbbuv1H3ds6BNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732032499326-s2urncve8738l81f32hjvp5k2hp90o4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
